@@ -77,3 +77,35 @@ Reverse engineering is the art of taking a compiled program and figuring out wha
 - Traffic Analysis Essentials
 - Snort
 - [Wireshark the
+
+Basics](https://tryhackme.com/room/wiresharkthebasics)
+
+✅Level 7 - Privilege Escalation
+
+Privilege Escalation is where you take a user account and get root/domain admin. It is essential to CTFs and hacking, so let's learn more about how to do it.
+
+- Linux Privilege Escalation
+- Windows PrivEsc
+- Linux PrivEsc Arena
+- Windows Privesc Arena
+- Sudo Security Bypass
+- Sudo Buffer Overflow
+- Blaster
+- Ignite
+- Kenobi
+- C4ptur3-th3-Fl4g
+- Pickle Rick
+
+✅Level 8 - CTF practice
+
+Here's some CTF practice for you!
+
+Easy
+
+- [Break Out The Cage](https://tryhackme.com/room/breakoutthecage1)
+- Lian Yu
+- B3dr0ck
+- Committed
+- Cyber Heroes
+- Sea Surfer
+- Startup

@@ -1,0 +1,79 @@
+🔰💥Free TryHackMe Training: The Ultimate Guide for Beginners💥🔰
+
+🛡️ Elevate Your Cybersecurity Skills with TryHackMe's FREE Guideline! 🛡️
+
+Ready to venture into the dynamic realm of cybersecurity? 🌐🔒 Uncover the essential tools and techniques you need with TryHackMe's comprehensive FREE cyber security Training!
+
+✅Level 1 - Getting Started
+
+Before getting started with challenges and CTFs (Capture the Flags), we recommend easing in with the following training:
+
+- Tutorial
+- Intro to Offensive Security
+- Introduction to Offensive Pentesting
+- Linux Fundamentals
+- OHsint
+
+✅Level 2 - Tooling
+
+The most important thing in a pentester's toolbox is tooling. At this level, you’ll learn the absolute minimum of the necessary tools to become a better hacker!
+- Nmap Live Host Discovery
+- Hydra
+- Linux PrivEsc
+- Burp Suite: The Basics
+- Introduction to OWASP ZAP
+- Metasploit: Introduction
+- Vulnversity
+- Blue
+- Simple CTF
+- Bounty Hacker
+- Brute It
+
+✅Level 3 - Crypto & Hashes with CTF Practice
+
+Understanding cryptography is essential to any hacker. This section will teach you the basics and give you some CTF practice.
+
+- Introduction to Cryptography
+- Crack the Hash
+- Agent Sudo
+- The Cod Caper
+- Lazy Admin
+- Encryption - Crypto 101
+
+✅Level 4 - Web
+
+- Content Discovery
+- Walking an Application
+- SQL Injection
+- DNS in Detail
+- HTTP in Detail
+- Burp Suite Basics
+- OWASP Juice Shop
+- Overpass
+- Bolt
+- Takeover
+- Neighbour
+- Corridor
+- Epoch
+
+✅Level 5 - Reverse Engineering
+
+Reverse engineering is the art of taking a compiled program and figuring out what it does. This section will teach you everything you need to know about it.
+
+- Windows Reversing Intro
+- Basic Malware RE
+- Reversing ELF
+- Dumping Router Firmware
+- Dissecting PE Headers
+
+✅Level 6 - Networking
+
+- What is Networking?
+- Introduction to Networking
+- Introduction to LAN
+- Passive Reconnaissance
+- Active Reconnaissance
+- Nmap
+- Traffic Analysis Essentials
+- Snort
+- [Wireshark the

@@ -1,0 +1,33 @@
+🔰 30 Tips how to use OSINT for bug hunting 💻 : 
+
+1. Use Google Dorks to find vulnerabilities in web applications.
+2. Use Shodan to find vulnerable IoT devices.
+3. Use Whois to find information about domain names.
+4. Use Maltego to visualize relationships between entities.
+5. Use the Wayback Machine to find old versions of websites.
+6. Use social media to gather information about targets.
+7. Use LinkedIn to gather information about employees.
+8. Use GitHub to find sensitive information in code repositories.
+9. Use Google Alerts to monitor for mentions of your target.
+10. Use DNSDumpster to map out a target's infrastructure.
+11. Use Recon-ng to automate OSINT tasks.
+12. Use theHarvester to gather email addresses and other information.
+13. Use SpiderFoot to automate OSINT tasks and gather intelligence.
+14. Use FOCA (Fingerprinting Organizations with Collected Archives) to gather metadata from documents.
+15. Use VirusTotal to scan files for malware.
+16. Use Censys to find vulnerable systems on the internet.
+17. Use Foca Pro to extract metadata from documents and analyze it.
+18. Use FOCA Online to extract metadata from documents and analyze it in the cloud.
+19. Use FOCA Free Edition for basic metadata extraction from documents.
+20. Use Metagoofil to extract metadata from documents and analyze it.
+21. Use Datasploit for automated OSINT tasks and data mining.
+22. Use Google Hacking Database (GHDB) for advanced Google searches.
+23. Use Google Custom Search Engine (CSE) for targeted searches on specific websites or domains.
+24. Use Google Advanced Search for advanced searches on Google.
+25. Use Google Trends to monitor trends related to your target or industry.
+26. Use Google Analytics to gather information about website traffic and user behavior.
+27. Use Google AdWords Keyword Planner for keyword research related to your target or industry.
+28. Use Google PageSpeed Insights to analyze website performance and identify vulnerabilities.
+29. Use Google Search Console (formerly Webmaster Tools) for website analytics and vulnerability identification.
+30. Use Google My Business for local SEO optimization.
+====================
